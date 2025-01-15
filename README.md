@@ -1,7 +1,3 @@
-**Comprehensive Core Computer Science Roadmap (Without Timeline)**
-
-This roadmap outlines the essential and advanced topics required to master core computer science concepts. Each section includes key concepts and curated resources to help you build a solid understanding in each area.
-
 **1. Computer Systems**
 *   **Goal:** Understand the fundamental principles of computer systems, including hardware and software interactions.
 *   **Key Concepts:**
